@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to be in a project group with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Edwin Lantigua. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- I'm a very average guitar player
+- I'm from the smallest state in the U.S.
+- One time I had a dream that I met Thom Yorke and it was great
+- Lastly, :)
