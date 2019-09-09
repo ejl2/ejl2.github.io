@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Lying (or at best misleading) Mattress
+title: Bryant Light Switches: Our Unsung Heroes
 image: /img/Good_Design.png
 ---
 ![Good Design](/img/Good_Design.png)
