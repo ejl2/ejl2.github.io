@@ -3,6 +3,7 @@ layout: post
 title: The Lying (or at best misleading) Mattress
 image: /img/BadDesign.png
 ---
+![Bad Design](/img/BadDesign.png)
 
 During the first few days on campus before starting class, I had a rather amusing conversation with my suitemate. He was frustrated at the time about having been misled by his mattress after finally arriving to campus following a long and tiring flight from California. 
 
