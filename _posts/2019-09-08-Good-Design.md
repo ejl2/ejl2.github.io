@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bryant Light Switches: Our Unsung Heroes
+title: Bryant Light Switches, Our Unsung Heroes
 image: /img/Good_Design.png
 ---
 ![Good Design](/img/Good_Design.png)
