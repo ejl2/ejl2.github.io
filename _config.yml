@@ -20,6 +20,7 @@ description: A place to show my learning from CSCI 376
 
 # List of links in the navigation bar
 navbar-links:
+  Project Proposal: "Project_Proposal"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
