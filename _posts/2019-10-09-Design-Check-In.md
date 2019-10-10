@@ -49,15 +49,15 @@ This design takes a social media oriented, “band profile”-centered approach 
 ### Design 2
 The design makes use of a smart-phone application format, where the platform communicates with the user through notifications. For example, when the Harmonee “Jam Event” algorithm determines that there are enough varied Harmonee users in an area, it will invite those users via phone notification to a Harmonee organized jam-session. Notifications lead to screens within the app with more information about the notification, depending on the nature of the alert. The app also has lower priority in-app notifications that are all guided to make the user aware of ways to improve their band processes and creative process (ie schedules, song organization, set list). The main idea of the app is that the higher value functions will make themselves clearly apparent via notifications based on the current state of the band or individual.
 
-#### Task 3 (Frames 1 + 2):
+#### Task: Thoughtful Preparation for Events (Frames 1 + 2)
 - In this design, this task is accomplished by opening a “Pre-Show Checklist” notification that is sent to the user at an appropriate time before an upcoming show. Upon opening the notification, the app will take you to a checklist of all the things that are needed, indicating what is provided by the venue, and what is most-commonly forgotten.
 
-#### Task 7 (Frames 2 + 3):
+#### Task: Creative Guidance (Frames 2 + 3)
 - In this design, this task is accomplished by opening the app and navigating to the creativity tools tab which will be highlighted by a star when it contains a notice. Here, creative suggestions will be indicated via a large exclamation mark over the element in question (ex. set-list, song, etc.). Touching the exclamation point will open a pop-up notice that will communicate the advice to the user.
 
-#### Task 2:
+#### Task: Building musical networks
 - Task 2 is accomplished by sending a notification to the user’s phone, indicating that the algorithm has selected them (based on location, instrument, and *hundreds of other metrics*) to potentially be a part of a Harmonee organized Jam-Event. Opening the notification allows the user to accept or reject the invitation, while also giving information about the time, location, and other relevant aspects.
-#### Task 4:
+#### Task: Delegation of Logistics
 - This design intends to accomplish this task through short reminder notifications sent to each band member. The intention is to make the most important information readable from the initial notification banner so that in most cases all users have to do is look at their phone to be reminded about what they are responsible for.   
 
 
@@ -66,3 +66,17 @@ The design makes use of a smart-phone application format, where the platform com
 ### Design 3
 
 This design makes use of a personal assistant that collects data on the group during rehearsals (and potentially during performances). The Harmonee personal assistant uses this data to provide helpful suggestions for the group to consider. For example, it could bring attention to certain aspects of their sound that they may not have considered (tempo changes, unusual chord choices, etc). It may also take note of members that are not as committed, potential opportunities at their next performances, and relevant details before they head out (time, location, extra considerations).
+
+### Task: Creative Guidance
+This design accomplishes this task by listening in on band practice sessions and using its algorithm to come up with constructive criticism based on the performance of the band. At the end of each song, the assistant will talk to the band and communicate their weak points and provide a way to improve.
+
+### Task: Delegation of Logistics
+One way that this design accomplishes this task is by using its sensors to detect who is present and (not present) within practice sessions. It uses this information to inform the band members of such deficiencies and recommend actions intended to mend the situation. Effectively, it delegates most, if not all relevant logistical responsibilities to itself, a virtual member of the band.
+
+### Task: Band Trajectory
+This design accomplishes this task by having the assistant always look for opportunities to heighten the status of the band during while it is on. It will verbally communicate these opportunities to the band  and suggest a course of action that allow the band to make decisions to make the most out of the opportunities.
+
+### Task: Thoughtful Preparation for Events
+This design accomplishes this task by giving members of the band “friendly-reminders” about things they should especially remember prior to the event. 
+
+
