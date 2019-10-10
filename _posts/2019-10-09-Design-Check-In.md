@@ -29,7 +29,16 @@ Annie has just started a band but unfortunately none of the band members have th
 ### Design 1
 This design takes a social media oriented, “band profile”-centered approach to Harmonee. The start screen is the band profile, including the band’s name, picture, description, the band group chat, and circular bubble picture links of each band member’s individual profile. On tapping a given band member’s picture, they go to that member’s DM’s with that given band member. Band members may send mp3’s, pictures, and text to each other. Outside of the band profile, users may go to the explore page to see similar bands close by, the Harmonee top charts, a featured group of the day, and more. The stats page shows interesting statistics about the band’s progress so far, as well as a “Band Trajectory Rating” which shows the good and bad about what the group has done thus far and where they need to go to reach their goals. Finally, the calendar view shows upcoming events defined by the group, as well as Harmonee-defined suggested events based on publicly available data as well as the private Band Trajectory suggestions.
 
-- 
+#### Task: Building musical networks
+- This design addresses the task of building musical networks through the Explore feature. Not only does this view show bands with similar or compatible sounds in their area, they also promote certain artists through the "Featured Artist of the Day" link. 
+
+#### Task: Thoughtful preparation for events
+- The design addresses the task of preparing for events thoughtfully in the Calendar view. By providing suggestions for potential events, Harmonee sets up the user for success by giving them actionable ways to be prepared.
+#### Task: Band Trajectory
+- The design addresses the task of band trajectory through the Stats view of the app, which contains a "Band Trajectory Rating" section. This section lists specific sources of success or areas the group is lacking in. 
+#### Task: Clear Communication between members
+- This design addresses the task of ensuring clear communication between members through the built-in group chat and direct message functionality. Having a built in chat encourages members to stay in touch and accountable for one another.
+
 
 
 ![design_2!](/img/design_2.jpg)
