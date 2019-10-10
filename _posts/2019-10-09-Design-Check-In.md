@@ -18,6 +18,10 @@ Jane Doe feels like she and her band are getting nowhere. During practices, they
 ### Clear Communication between Members
 Jeff and Edward are yelling at each other about who was responsible for bring the bass amp to their most recent performance. It’s Edward’s amp, but Jeff was the one who drove everyone to the show and was rushing everyone to be on time. In any case, the bass amp is back home and the group is bass amp-less. This misunderstanding stemmed from a lack of accountability and ownership of responsibility, but ultimately from a lack of communication. Establishing clear lines of communication between band members is important so that misunderstandings are avoided. In this way, the accountability and reliability of individual members is maintained.
 
+### Musicianship and Creativity
+
+blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablaHiEdwinblablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla
+
 ![design_1!](/img/design_1.jpg)
 
 ### Design 1
