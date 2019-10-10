@@ -15,8 +15,9 @@ The Slim Jims suffer from a severe lack of organization, making logistics a huge
 ### Band Trajectory
 Jane Doe feels like she and her band are getting nowhere. During practices, they usually noodle around, playing on their instruments without listening to each other. Nobody is satisfied with the work that they produce; they lack a clearly-defined vision of who they want to be. Jane’s band needs a trajectory for them to grow and develop according to their goals. This could include deadlines for songs to be polished, opportunities to play for a wider audience, and reflections on growth over time to provide context to the current state of the band.
 
-###
+### Clear Communication between Members
 Jeff and Edward are yelling at each other about who was responsible for bring the bass amp to their most recent performance. It’s Edward’s amp, but Jeff was the one who drove everyone to the show and was rushing everyone to be on time. In any case, the bass amp is back home and the group is bass amp-less. This misunderstanding stemmed from a lack of accountability and ownership of responsibility, but ultimately from a lack of communication. Establishing clear lines of communication between band members is important so that misunderstandings are avoided. In this way, the accountability and reliability of individual members is maintained.
+
 
 
 ### Design 1
@@ -27,3 +28,4 @@ The design makes use of a smart-phone application format, where the platform com
 
 ### Design 3
 
+This design makes use of a personal assistant that collects data on the group during rehearsals (and potentially during performances). The Harmonee personal assistant uses this data to provide helpful suggestions for the group to consider. For example, it could bring attention to certain aspects of their sound that they may not have considered (tempo changes, unusual chord choices, etc). It may also take note of members that are not as committed, potential opportunities at their next performances, and relevant details before they head out (time, location, extra considerations).
