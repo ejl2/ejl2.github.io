@@ -1,0 +1,3 @@
+
+
+The above storyboard attempts to show a user experience with the “thoughtful preparation of events” task. A band member realizes too late that they are missing an all-important mic stand at their performance. Seeing this, Ozzy wants to prevent this from happening in the future. He adds mic stand as a forgotten item so that at the time of their upcoming performance (in the Harmonee calendar), they will be reminded of the things that they listed as important and forgotten. Not only this, but Harmonee will remind users of various items and considerations that are commonly forgotten by other users as well. This way, users can be prepared for things they expected and avoid the failures of the past AND prepare for those things they may not have considered or expected.
