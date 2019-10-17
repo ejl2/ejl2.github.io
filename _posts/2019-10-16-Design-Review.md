@@ -1,4 +1,4 @@
-##Design and Tasks
+## Design and Tasks
 
 We chose this design because we thought it was the least intrusive of the three methods (less emphasis on constant reminders, and more realistic than a robot being part of the band). Musicians (or people in general) are not likely to have the patience to deal with many notifications, or let a robot manage their band for them. We found that this mobile application format lent itself better to the two tasks we found most important: establishing a network of musicians, and thoughtful preparation for events. Based on our contextual inquiries, these tasks encompassed a lot of the stress involved in the band creation/management process. We also find that some of the other tasks, like building musicianship are often addressed naturally through experience and even as a result of addressing the tasks we chose (in this case, playing with a network of people can help improve musicianship).
 
