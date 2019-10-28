@@ -47,8 +47,14 @@ In this design, the task of “thoughtful Preparation for events” is accomplis
 ![design_2](/img/DesignReviewT2P1.jpg)
 ![design_2](/img/DesignReviewT2P2.jpg)
 
-The above storyboard follows Gary the guitarist as he uses Harmonee to accomplish the task of building a musical network. At first, we can see Gary’s motivation by the fact that he does not know anyone to play with. He starts up Harmonee on his mobile device and initially sets up his application based on his goals as an individual. We then see how Gary sets up his Harmonee account to include a recording of his playing, as well as various other prompts to help him find the perfect set of people for him. After some time, he receives a notification that a Harmonee match has been made based on his previous inputs. This prompts the scheduling of a “Test Match Event” that Gary accepts so that he can meet and attempt to play with the musicians that the algorithm has deemed to be a suitable matching. After the members have met and played together, the app asks for a rating for the session, and asks each user if they are interested in forming a band now that they have experienced what it is like to play with these other musicians.
+The above storyboard follows Gary the guitarist as he uses Harmonee to accomplish the task of building a musical network. At first, we can see Gary’s motivation by the fact that he does not know anyone to play with. He starts up Harmonee on his mobile device and initially sets up his application based on his goals as an individual. We then see how Gary sets up his Harmonee account to include a recording of his playing, as well as various other prompts to help him find the perfect set of people for him. After some time, he receives a notification that a Harmonee match has been made based on his previous inputs. This prompts the scheduling of a “Test Match Event” that Gary accepts so that he can meet and attempt to play with the musicians that the algorithm has deemed to be a suitable matching.
 
 ![design_2](/img/design_review_1.jpg)
 
 The above storyboard attempts to show a user experience with the “thoughtful preparation of events” task. A band member realizes too late that they are missing an all-important mic stand at their performance. Seeing this, Ozzy wants to prevent this from happening in the future. He adds mic stand as a forgotten item so that at the time of their upcoming performance (in the Harmonee calendar), they will be reminded of the things that they listed as important and forgotten. Not only this, but Harmonee will remind users of various items and considerations that are commonly forgotten by other users as well. This way, users can be prepared for things they expected and avoid the failures of the past AND prepare for those things they may not have considered or expected.
+
+### Revised Storyboards
+
+
+![design_2](/img/design_review_1_revised.jpg)
+
