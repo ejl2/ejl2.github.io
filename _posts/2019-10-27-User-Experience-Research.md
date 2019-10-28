@@ -45,7 +45,7 @@ In this design, the task of “thoughtful Preparation for events” is accomplis
 ### Written Scenarios
 
 ![design_2](/img/DesignReviewT2P1.jpg)
-![design_2](/img/DesignReviewT2P2.jpg)
+![design_2](/img/DesignReviewT2P2_cropped.jpg)
 
 The above storyboard follows Gary the guitarist as he uses Harmonee to accomplish the task of building a musical network. At first, we can see Gary’s motivation by the fact that he does not know anyone to play with. He starts up Harmonee on his mobile device and initially sets up his application based on his goals as an individual. We then see how Gary sets up his Harmonee account to include a recording of his playing, as well as various other prompts to help him find the perfect set of people for him. After some time, he receives a notification that a Harmonee match has been made based on his previous inputs. This prompts the scheduling of a “Test Match Event” that Gary accepts so that he can meet and attempt to play with the musicians that the algorithm has deemed to be a suitable matching.
 
