@@ -57,4 +57,6 @@ The above storyboard attempts to show a user experience with the “thoughtful p
 
 
 ![design_2](/img/design_review_1_revised.jpg)
+![design_2](/img/DesignReviewT2P2_cropped.jpg)
+
 
