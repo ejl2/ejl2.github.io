@@ -1,7 +1,7 @@
 ## Working in Harmonee
 ### Team Members: 
-- Edwin Lantigua
-- Geoffrey Salmon
+- Edwin Lantigua (designer, researcher)
+- Geoffrey Salmon (designer, researcher)
 
 ### Problem and Solution Overview
 
