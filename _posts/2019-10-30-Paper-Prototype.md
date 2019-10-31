@@ -21,9 +21,13 @@ This screen shows the user a potential band matching. The page includes informat
 ### Task 2, Thoughtful Preparation
 
 ![design_1!](/img/paper-proto-band.JPG)
+
+In addition to one’s individual profile, bands have a band profile shared by the whole group. This page features a picture of the group, the band’s name, a short description, some song links and, importantly, a preparation list for groups to plan for the uncertain.
+
+The first section of the preparation list features missing items. These are items that they missed in their previous performance or considerations that they need to take into account for next time. The Commonly Forgotten section showcases items that are commonly listed across the app as missing. Finally, the goals section shows things that band members want to see in their band.
+
 ![design_1!](/img/paper-proto-prep.JPG)
 
-
-
+The calendar section lists upcoming events as specified by users as well as suggested events based on band member schedules.
 
 
