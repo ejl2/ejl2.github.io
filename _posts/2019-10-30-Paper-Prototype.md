@@ -1,5 +1,7 @@
 ## Paper Prototype
 
+![design_1!](/img/whole-proto.jpeg)
+
 ### Task 1, Building a Musical Network
 This is the starting point for the app, which is intended to orient the user's experience closer to whichever task they are looking to complete. Because we are interested in accomplishing the task of building a musical network, we will select "Looking For a Band."
 ![design_1!](/img/paper-proto-start.JPG)
