@@ -56,5 +56,7 @@ Lastly, we had multiple evaluators comment that we lacked an organized way to sh
 
 ## Part 4: Updated Prototype
 
+![design_1!](/img/Revised-Start.jpg)
+![design_1!](/img/Heuristic-Schedule-Edit.JPG)
 
 
