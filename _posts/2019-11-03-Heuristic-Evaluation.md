@@ -66,7 +66,7 @@ Lastly, we had multiple evaluators comment that we lacked an organized way to sh
 ![design_1!](/img/Revised-Match.JPG)
 ![design_1!](/img/Revised-Band.JPG)
 ![design_1!](/img/Revised-Prep.JPG)
-![design_1!](/img/Revised-Shedule.JPG)
+![design_1!](/img/Revised-Schedule.JPG)
 
 
 
