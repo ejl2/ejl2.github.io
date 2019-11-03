@@ -1,4 +1,5 @@
-## Heuristic Evaluation
+# Heuristic Evaluation
+## Part 1: Findings
 
 ![design_1!](/img/HeuristicTable.PNG)
 
@@ -26,3 +27,9 @@
 ### Offending Portion For Comments: 5
 
 ![design_1!](/img/paper-proto-prep.JPG)
+
+
+## Part 2: Revisions
+
+### Comment 
+![design_1!](/img/Heuristic-Instrument-Edit.JPG)
