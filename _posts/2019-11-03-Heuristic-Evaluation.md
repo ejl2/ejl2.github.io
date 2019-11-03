@@ -58,5 +58,20 @@ Lastly, we had multiple evaluators comment that we lacked an organized way to sh
 
 ![design_1!](/img/Revised-Start.jpg)
 ![design_1!](/img/Heuristic-Schedule-Edit.JPG)
+![design_1!](/img/Heuristic-Instrument-Edit.JPG)
+![design_1!](/img/Heuristic-Genre-Edit.JPG)
+![design_1!](/img/Heuristic-Record-Edit.JPG)
+![design_1!](/img/Revised-Match-Not.jpg)
+![design_1!](/img/Heuristic-Matches.JPG)
+![design_1!](/img/Revised-Match.jpg)
+![design_1!](/img/Revised-Band.jpg)
+![design_1!](/img/Revised-Prep.jpg)
+![design_1!](/img/Revised-Shedule.jpg)
+
+
+
+
+
+
 
 
