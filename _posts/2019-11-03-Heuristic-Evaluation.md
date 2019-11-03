@@ -1,11 +1,11 @@
 # Heuristic Evaluation
 ## Part 1: Raw Data
 Presenter: Edwin
-![design_1!](/img/Heuristic-Eval-1.JPG)
-![design_1!](/img/Heuristic-Eval-2.JPG)
+![design_1!](/img/Heuristic-Eval-1.jpg)
+![design_1!](/img/Heuristic-Eval-1.jpg)
 
 Presenter: Geoff
-![design_1!](/img/Heuristic-Eval-3.JPG)
+![design_1!](/img/Heuristic-Eval-1.jpg)
 
 
 ## Part 2: Compilation
