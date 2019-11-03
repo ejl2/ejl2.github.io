@@ -1,5 +1,14 @@
 # Heuristic Evaluation
-## Part 1: Findings
+## Part 1: Raw Data
+Presenter: Edwin
+![design_1!](/img/Heuristic-Eval-1.PNG)
+![design_1!](/img/Heuristic-Eval-2.PNG)
+
+Presenter: Geoff
+![design_1!](/img/Heuristic-Eval-3.PNG)
+
+
+## Part 2: Compilation
 
 ![design_1!](/img/HeuristicTable.PNG)
 
@@ -29,7 +38,7 @@
 ![design_1!](/img/paper-proto-prep.JPG)
 
 
-## Part 2: Revisions
+## Part 3: Revisions
 
 ### Profile Revisions
 After compiling our heuristic evaluations, we noticed that the profile page was the source of most of our broken heuristics. To start, we changed our instrument and genre selctors to be drop-down menus that show instruments based off of the characters typed in the filter box. This was done in response to several people pointing out that we should have users select their instruments rather than typing them out (see comment 3). We also included an option to sync Harmonee to the user's prefered calendar application so that the band matching "Jam Events" can be informed by the user's actual availability (see comment 1) multiple people pointed this out and ranked the lack of something like this as relatively high in severity.
@@ -43,5 +52,9 @@ We also noticed that during our evaluation, our evaluators had a lot of question
 
 ### Multiple Match Revisions:
 Lastly, we had multiple evaluators comment that we lacked an organized way to show the user that they have multiple matches (see comment 2), so we decided to include an entirely new page in which all matches are shown and can be sorted by match percentage or date of matching. We also decided to include some of the metrics that were used to compute the percentage in response to one of the evaluators suggeting that we do so (see comment 7).
+![design_1!](/img/Heuristic-Matches.JPG)
+
+## Part 4: Updated Prototype
+
 
 
