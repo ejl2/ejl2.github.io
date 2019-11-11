@@ -60,14 +60,16 @@ Task 2.)
 
 ## Overview
 
-### Task 1:
+### Task 1: “find a group of musical peers to play music with in the near future.”
 ![task_1_overview!](/img/Task1-1.png)
 ![task_1_overview!](/img/Task1-2.png)
 
-### Task 2:
+### Task 2: "you currently part of a band and your task is to act as band manager for the group."
 ![task_1_overview!](/img/Task2.png)
 
 ### Paper Prototype:
 ![task_1_overview!](/img/PrototypeOverview1.png)
+![task_1_overview!](/img/PrototypeOverview2.png)
+
 
 
