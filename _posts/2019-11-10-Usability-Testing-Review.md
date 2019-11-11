@@ -5,12 +5,11 @@ For our first usability test, we were able to use Steve Montano as our participa
 
 Task 1.)
 	To start the usability test, we informed Steve that his task was to “find a group of musical peers to play music with in the near future.”
-
-![design_1!](/img/UserTestTable1.PNG)
-
+	
 Task 2.)
   	 For the second task, we told Steve that he is currently part of a band and his task was to act as band manager for the group.
 
+![design_1!](/img/UserTestTable1.PNG)
 ![design_1!](/img/UserTestTable2.PNG)
 
 ###  Test 1 Summary:
