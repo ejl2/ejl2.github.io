@@ -67,5 +67,7 @@ Task 2.)
 ### Task 2:
 ![task_1_overview!](/img/Task2.png)
 
+### Paper Prototype:
+![task_1_overview!](/img/PrototypeOverview1.png)
 
 
