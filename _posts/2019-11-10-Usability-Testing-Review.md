@@ -27,7 +27,7 @@ Task 1.)
 	To start the usability test, we informed "Strawberry Blast" that his task was to “find a group of musical peers to play music with in the near future.”
 
 Task 2.)
-  	 For the second task, we told Barry that he is currently part of a band and his task was to act as band manager for the group.
+  	 For the second task, we told Strawberry that she is currently part of a band and his task was to act as band manager for the group.
 
 ![table_of_interview_results!](/img/StrawberryInterview1.png)
 ![table_of_interview_results!](/img/StrawberryInterview2.png)
