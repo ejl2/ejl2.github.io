@@ -58,6 +58,8 @@ Task 2.)
 ![table_of_revisions!](/img/Revisions2-11-10-19.png)
 ![table_of_revisions!](/img/Revisions3-11-10-19.png)
 
+We Thought the most salient revisions were 1.) the changes made to the edit mode of the calendar and 2.) the addition of the "Bands" page. The changes made to the edit mode of calendar are very important because users were previously unable to add more gigs to the application due to the lack of a button that allows them to do so. This would have effectively made a large portion of Harmonee completely unusable. We also made it so that users have to provide confirmation before deleting a gig, as accidently doing so (which would have been as easy as accidentally touching the remove button) could have large consequences because of the committal nature of agreeing to a performance. We felt that the addition of the "Bands" page was important because about half our intended users are people who have had a bit more experience with forming bands, and as we have seen in our research, finding the right band is often an iterative process. Musicians often organize more than one band during their lives, many times at the same time! We wanted to make sure that Harmonee does not limit this process, so we decided to allow for the managing of multiple bands within the app. 
+
 ## Overview
 
 ### Task 1: “find a group of musical peers to play music with in the near future.”
