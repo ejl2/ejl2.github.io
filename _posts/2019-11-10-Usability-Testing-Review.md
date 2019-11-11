@@ -23,28 +23,30 @@ After conducting the usability test, it looks as though we need to flesh out som
 Task 1.)
 	To start the usability test, we informed Steve that his task was to “find a group of musical peers to play music with in the near future.”
 
-![design_1!](/img/UserTestTable1.PNG)
-
 Task 2.)
   	 For the second task, we told Steve that he is currently part of a band and his task was to act as band manager for the group.
 
-![design_1!](/img/UserTestTable2.PNG)
+![table of interview results!](/img/StrawberryInterview1.pnj)
+![table of interview results!](/img/StrawberryInterview2.pnj)
+![table of interview results!](/img/StrawberryInterview3.pnj)
+![table of interview results!](/img/StrawberryInterview4.pnj)
 
 ###  Test 2 Summary:
 
 
 
-## Usability Test 3 ("Eli Tatum"):
+## Usability Test 3 ("Barry Baritone")
 
 Task 1.)
 	To start the usability test, we informed Steve that his task was to “find a group of musical peers to play music with in the near future.”
 
-![design_1!](/img/UserTestTable1.PNG)
-
 Task 2.)
   	 For the second task, we told Steve that he is currently part of a band and his task was to act as band manager for the group.
 
-![design_1!](/img/UserTestTable2.PNG)
+![table of interview results!](/img/BarryInterview1.pnj)
+![table of interview results!](/img/BarryInterview2.pnj)
+![table of interview results!](/img/BarryInterview3.pnj)
+
 
 ###  Test 2 Summary:
 
