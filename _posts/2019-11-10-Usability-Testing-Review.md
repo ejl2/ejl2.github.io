@@ -13,49 +13,59 @@ Task 2.)
 ![design_1!](/img/UserTestTable2.PNG)
 
 ###  Test 1 Summary:
-After conducting the usability test, it looks as though we need to flesh out some of the features of our app a little bit more. There were moments where Steve assumed that tapping on certain elements would take you to screens that didn’t exist. Conversely, there were also situations where Steve was looking for a feature or element that was not there in order to accomplish something within the view, usually an elementary detail such as deleting a cell within a table. These minor oversights can have major implications for the usability and practicality of our app, and are very welcome criticisms. However, Steve went even further than using the time of the test just to critique the design details. At a higher level, Steve also thought about some of the ways that the group dynamics would play out within the app. When band members make contributions to the app or delete the work of themselves or others, who gets to decide what content remains? This got us really thinking about the policy we employ as creators handling user content. Should it be that anyone can add, say, to the preparation list, but that it requires a unanimous decision to remove items? If so, this could result in a flood of content that would be hard to manage. This leads to a discussion of whether we should codify the unofficial delegation of “band manager” into roles such as “Admin” and “Member.” This helps establish that a certain individual holds the responsibility of managing content, but also represents a threat to the egalitarian nature of members within a band, making certain members have a higher status than others. Steve was a fantastic test user; he allowed us to consider some of the important questions that don’t have clear answers. We hope that we can use the information from the test to more effectively design a system that simultaneously promotes member inclusion and effective data filtering and management.
 
 
 
 ## Usability Test 2 ("Strawberry Blast"):
+In terms of demographics, "Strawberry Blast" is functionally the same as "Steve Montano". We conducted the interview in the same location as the last interview showed that it was a reliable and quiet testing environment. Before conducting the test we stated the same information we gave to Steve in the first test. For more detail, please refer to Usability Test 1.
+
 
 Task 1.)
-	To start the usability test, we informed Steve that his task was to “find a group of musical peers to play music with in the near future.”
+	To start the usability test, we informed "Strawberry Blast" that his task was to “find a group of musical peers to play music with in the near future.”
 
 Task 2.)
-  	 For the second task, we told Steve that he is currently part of a band and his task was to act as band manager for the group.
+  	 For the second task, we told Barry that he is currently part of a band and his task was to act as band manager for the group.
 
 ![table_of_interview_results!](/img/StrawberryInterview1.png)
 ![table_of_interview_results!](/img/StrawberryInterview2.png)
 ![table_of_interview_results!](/img/StrawberryInterview3.png)
 ![table_of_interview_results!](/img/StrawberryInterview4.png)
 
-###  Test 2 Summary:
-
 
 
 ## Usability Test 3 ("Barry Baritone")
+We decided to ask Barry to be a participant in our usability test because he represents a demographic of musicians who are a bit more experienced with managing bands. He has been playing in several different groups for years and thus provides a perspective that is different from the first two participants, but still within our target range for our application. We conducted the interview in the same location as the last interview showed that it was a reliable and quiet testing environment. Before conducting the test we stated the same information we gave to Steve in the first test. For more detail, please refer to Usability Test 1.
+
 
 Task 1.)
-	To start the usability test, we informed Steve that his task was to “find a group of musical peers to play music with in the near future.”
+	To start the usability test, we informed Barry that his task was to “find a group of musical peers to play music with in the near future.”
 
 Task 2.)
-  	 For the second task, we told Steve that he is currently part of a band and his task was to act as band manager for the group.
+  	 For the second task, we told Barry that he is currently part of a band and his task was to act as band manager for the group.
 
 ![table_of_interview_results!](/img/BarryInterview1.png)
 ![table_of_interview_results!](/img/BarryInterview2.png)
 ![table_of_interview_results!](/img/BarryInterview3.png)
 
 
-###  Test 2 Summary:
-
-
 
 ## Revisions
 ### Test 1 Revisions:
-![design_1!](/img/UsabilityTest1Rev.PNG)
+![table_of_revisions!](/img/UsabilityTest1Rev.PNG)
 
 ### Test 1 & 2 Revisions:
 ![table_of_revisions!](/img/Revisions1-11-10-19.png)
 ![table_of_revisions!](/img/Revisions2-11-10-19.png)
 ![table_of_revisions!](/img/Revisions3-11-10-19.png)
+
+## Overview
+
+### Task 1:
+![task_1_overview!](/img/Task1-1.png)
+![task_1_overview!](/img/Task1-2.png)
+
+### Task 2:
+![task_1_overview!](/img/Task2.png)
+
+
+
