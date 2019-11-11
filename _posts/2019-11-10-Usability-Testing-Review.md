@@ -26,10 +26,10 @@ Task 1.)
 Task 2.)
   	 For the second task, we told Steve that he is currently part of a band and his task was to act as band manager for the group.
 
-![table_of_interview_results!](/img/StrawberryInterview1.pnj)
-![table_of_interview_results!](/img/StrawberryInterview2.pnj)
-![table_of_interview_results!](/img/StrawberryInterview3.pnj)
-![table_of_interview_results!](/img/StrawberryInterview4.pnj)
+![table_of_interview_results!](/img/StrawberryInterview1.png)
+![table_of_interview_results!](/img/StrawberryInterview2.png)
+![table_of_interview_results!](/img/StrawberryInterview3.png)
+![table_of_interview_results!](/img/StrawberryInterview4.png)
 
 ###  Test 2 Summary:
 
@@ -43,9 +43,9 @@ Task 1.)
 Task 2.)
   	 For the second task, we told Steve that he is currently part of a band and his task was to act as band manager for the group.
 
-![table_of_interview_results!](/img/BarryInterview1.pnj)
-![table_of_interview_results!](/img/BarryInterview2.pnj)
-![table_of_interview_results!](/img/BarryInterview3.pnj)
+![table_of_interview_results!](/img/BarryInterview1.png)
+![table_of_interview_results!](/img/BarryInterview2.png)
+![table_of_interview_results!](/img/BarryInterview3.png)
 
 
 ###  Test 2 Summary:
