@@ -1,6 +1,6 @@
 # Project Digital Mockup
 
-![design_1!](/img/CogWalk.PNG)
+![HiFi Prototype Overview](/img/HiFi Overview.png)
 
 ### Citations:
 
@@ -17,11 +17,17 @@ Calendar Icon:
 “Calendar by Danil Polshin from the Noun Project”
 
 
-Band member Perla
-Photo by Tim Mossholder on Unsplash
+Band member Riley:
+"Photo by Tim Mossholder on Unsplash"
 
-Band member James
-Photo by Akshar Dave on Unsplash
+Band member James:
+"Photo by Akshar Dave on Unsplash"
 
 Waveform:
 “waveform by Ben Avery from the Noun Project”
+
+Golden Disk:
+"From Wikimedia Commons, the free media repository
+
+Prep List:
+"Photo by Barthy Bonhomme from Pexels"
