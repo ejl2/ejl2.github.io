@@ -1,6 +1,6 @@
 # Project Digital Mockup
 
-![HiFi_Prototype_Overview](/img/HiFi Overview.png)
+![HiFi_Prototype_Overview](/img/HiFi-Overview.png)
 
 ### Citations:
 
