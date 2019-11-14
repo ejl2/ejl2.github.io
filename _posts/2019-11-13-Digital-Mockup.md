@@ -13,7 +13,7 @@ The below images shows the user progressing through the profile creation process
 
 
 ### Task 2: Mindful Preparation for Events
-The below im
+The below image follows the user as they view their band profile and manage several aspects from there. The user navigates to the preparation list to get a sense of the types of supplies they are lacking, or should have an extra of, as well as providing information on the types of supplies that other users commonly forget. After this, the user checks their calendar to view their upcoming events and is given the option to edit or remove existing events, add new events, as well as add events that the app suggests based on their existing band schedule. 
 
 ![HiFi_Prototype_Overview](/img/HiFi-Task-2-1.png)
 
