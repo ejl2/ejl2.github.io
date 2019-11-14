@@ -47,3 +47,6 @@ Golden Disk:
 
 Prep List:
 "Photo by Barthy Bonhomme from Pexels"
+
+Julius Caesar Speech:
+Shakespeare's "Julius Caesar"
