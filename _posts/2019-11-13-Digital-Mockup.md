@@ -1,7 +1,9 @@
 # Project Digital Mockup
 ### Overview
-![HiFi_Prototype_Overview](/img/HiFi-Overview.png)
 In all, the HiFi prototype faithfully captures all of the functionality captured in the LoFi prototype. Changes made mainly reflect stylistic decisions about color and spacing in order to make some functions more obvious or simply more attractive. A notable change was the inclusion of various "tip" cards that give some insight on how tasks might be useful to them. 
+
+![HiFi_Prototype_Overview](/img/HiFi-Overview.png)
+
 
 ### Task 1: Building a Network of Musicians
 The below images shows the user progressing through the profile creation process, as well as what it might look like should they be successfully matched with several other individuals. They are able to set their instruments, genre, and availability in this prototype, but in theory they should be able to include a large number of other important metrics for band compatibility that are at the present beyond the scope of our prototype views. The task ends when the user successfully navigates to one of their match pages and accepts a "Test Jam Session."
@@ -12,6 +14,9 @@ The below images shows the user progressing through the profile creation process
 
 ### Task 2: Mindful Preparation for Events
 The below im
+
+![HiFi_Prototype_Overview](/img/HiFi-Task-2-1.png)
+
 
 ### Citations:
 
