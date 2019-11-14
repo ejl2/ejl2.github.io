@@ -1,7 +1,7 @@
 # User Experience Design Overview
 
-### 2.) Roles:
+### 2.) Roles
 Geoff Salmon: Executive Designer
 Edwin Lantigua: Executive Designer
 
-### 4.) 
+### 4.) Paper Prototype
