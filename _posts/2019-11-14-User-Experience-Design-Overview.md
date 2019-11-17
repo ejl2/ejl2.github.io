@@ -61,4 +61,7 @@ A great example of the former would be the lack of the following pages on our ap
 
 ![paper-proto!](/img/page-additions.PNG)
 
-The following pictures demonstrate some of the changes that were made in response to elements having insuficient signifiers or otherwise being confusing for our users 
+The following pictures demonstrate some of the changes that were made in response to elements having insuficient signifiers or otherwise being confusing for our users. The first shows a drop-down input selector that has the functionality of allowing multiple entries (in the given case, instruments and genres). With the initial design, most testers either assumed that only one input was allowed, or were not able to easily figure out how to add multiple inputs. This result was of particular importance to us because the quality of the band matching is highly dependent on the amount of information the user is able to provide to Harmonee. Simple design oversights like this should not hinder the gathering of this data. These results informed our switch to a dropdown menu that more obviously shows this functionality through checkboxes.
+
+![paper-proto!](/img/edits-overview.PNG)
+
