@@ -1,8 +1,9 @@
 # User Experience Design Overview
 
 ### 2.) Roles
-Geoff Salmon: Executive Designer
-Edwin Lantigua: Executive Designer
+Geoff Salmon - Researcher, Designer
+
+Edwin Lantigua - REsearcher, Designer
 
 
 ### The Problem. Our Solution
@@ -61,7 +62,14 @@ A great example of the former would be the lack of the following pages on our ap
 
 ![paper-proto!](/img/page-additions.PNG)
 
-The following pictures demonstrate some of the changes that were made in response to elements having insuficient signifiers or otherwise being confusing for our users. The first shows a drop-down input selector that has the functionality of allowing multiple entries (in the given case, instruments and genres). With the initial design, most testers either assumed that only one input was allowed, or were not able to easily figure out how to add multiple inputs. This result was of particular importance to us because the quality of the band matching is highly dependent on the amount of information the user is able to provide to Harmonee. Simple design oversights like this should not hinder the gathering of this data. These results informed our switch to a dropdown menu that more obviously shows this functionality through checkboxes.
+The following pictures demonstrate some of the changes that were made in response to elements having insuficient signifiers or otherwise being confusing for our users. The first shows a drop-down input selector that has the functionality of allowing multiple entries (in the given case, instruments and genres). With the initial design, most testers either assumed that only one input was allowed, or were not able to easily figure out how to add multiple inputs. This result was of particular importance to us because the quality of the band matching is highly dependent on the amount of information the user is able to provide to Harmonee. Simple design oversights like this should not hinder the gathering of this data. These results informed our switch to a dropdown menu that more obviously shows this functionality through checkboxes. The second example shown on the right shows the events tab in edit mode where there is a lack of a way to add events! This was an observation that all participants made that severly impacted their ability to perform their second tasks, and caused them to question whether it was the app itself that made events on behalf of the band, or if it was indeed one of their responsibilities. Based on these complaints, we revised the prototype to include a green plus sign to indicate adding events. Their was also an observation made that removing events is a high-consequence action that could easily be done by accident with the original design. We decided to include a confirmation pop-up to prevent this from happening. 
 
 ![paper-proto!](/img/edits-overview.PNG)
+
+Lastly, another major result we found was that users were consistently unsure about when Harmonee has submitted their profile for matching. This caused most of the users to be visibly confused about how to proceed. We acknowledge these results by now having the user choose to "edit" and "submit" their profiles, as well as including status messages at the bottom of the page that the user when they have successfully submitted their profile.
+
+![paper-proto!](/img/edits-overview.PNG)
+
+These results are perhaps the most salient of our usability tests, but do not show the complete scope of the results gathered. To view all results collected please visit https://eddyngeoffy.github.io/2019-11-10-Usability-Testing-Review/
+
 
