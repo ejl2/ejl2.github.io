@@ -73,3 +73,26 @@ Lastly, another major result we found was that users were consistently unsure ab
 These results are perhaps the most salient of our usability tests, but do not show the complete scope of the results gathered. To view all results collected please visit https://eddyngeoffy.github.io/2019-11-10-Usability-Testing-Review/
 
 
+### 8.) Digital Mockup
+In all, the HiFi prototype faithfully captures all of the functionality captured in the LoFi prototype. Changes made mainly reflect stylistic decisions about color and spacing in order to make some functions more obvious or simply more attractive. A notable change was the inclusion of various "tip" cards that give some insight on how tasks might be useful to them. In addition, the profile page 
+![HiFi_Prototype_Overview](/img/HiFi-Overview.png)
+
+
+#### Task 1: Building a Network of Musicians
+The below images shows the user progressing through the profile creation process, as well as what it might look like should they be successfully matched with several other individuals. They are able to set their instruments, genre, and availability in this prototype, but in theory they should be able to include a large number of other important metrics for band compatibility that are at the present beyond the scope of our prototype views. The task ends when the user successfully navigates to one of their match pages and accepts a "Test Jam Session."
+
+![HiFi_Prototype_Overview](/img/HiFi-Task-1-1.png)
+![HiFi_Prototype_Overview](/img/HiFi-Task-1-2.png)
+
+
+#### Task 2: Mindful Preparation for Events
+The below image follows the user as they view their band profile and manage several aspects from there. The user navigates to the preparation list to get a sense of the types of supplies they are lacking, or should have an extra of, as well as providing information on the types of supplies that other users commonly forget. After this, the user checks their calendar to view their upcoming events and is given the option to edit or remove existing events, add new events, as well as add events that the app suggests based on their existing band schedule. 
+
+![HiFi_Prototype_Overview](/img/HiFi-Task-2-1.png)
+
+
+### 10.) Appendix
+Original Paper Prototype Page https://eddyngeoffy.github.io/2019-10-30-Paper-Prototype/
+Usability Testing Page https://eddyngeoffy.github.io/2019-11-10-Usability-Testing-Review/
+Digital Mockup https://eddyngeoffy.github.io/2019-11-13-Digital-Mockup/
+
