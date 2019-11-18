@@ -54,6 +54,9 @@ The calendar section lists upcoming events as specified by users as well as sugg
 
 ![paper-proto!](/img/paper-proto-calendar.JPG)
 
+### 5.) Usability Testing Process
+Our testing process began with a brief explanation of what the purpose of our app was and the goal of the test itself. While we did not provide our users with a formal consent form, we did make sure to communicate to them that 1.) his participation is completely voluntary and he can leave at any point, 2.) we are testing how well the prototype intuitively helps the user complete certain tasks, 3.) this is in no way an evaluation of Steve’s ability. After this, we introduced the paper prototype to the user and explained that it is intended to mimic the interface of a mobile application where the user has the ability to tap on elements to select, as well as swiping and typing as appropriate. We informed the user that he is encouraged to talk out his actions, and that no observation is too trivial to mention, as we are interested in the unique insights he might have, especially those about confusing parts of our application flow. We especially encouraged him to ask questions, but to be mindful of the fact that we will likely not be able to answer them unless they are critical to the continuance of the test.
+
 
 ### 6.) Usability Testing Results
 Our tests illuminated many oversights that were made while designing our paper prototype that we were able to later use to iterably improve our design. Throughout our testing we noticed the trend that many of the issues that came up either had to do with some sort of lack of intermediate functions that help get the user to complete the main task, or misconceptions of the affordances of an element allowed to the user because of insufficient signifiers.
