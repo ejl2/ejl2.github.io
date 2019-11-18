@@ -3,7 +3,7 @@
 ### 2.) Roles
 Geoff Salmon - Researcher, Designer
 
-Edwin Lantigua - REsearcher, Designer
+Edwin Lantigua - Researcher, Designer
 
 
 ### The Problem. Our Solution
