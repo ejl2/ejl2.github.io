@@ -93,6 +93,8 @@ The below image follows the user as they view their band profile and manage seve
 
 ### 10.) Appendix
 Original Paper Prototype Page https://eddyngeoffy.github.io/2019-10-30-Paper-Prototype/
+
 Usability Testing Page https://eddyngeoffy.github.io/2019-11-10-Usability-Testing-Review/
+
 Digital Mockup https://eddyngeoffy.github.io/2019-11-13-Digital-Mockup/
 
