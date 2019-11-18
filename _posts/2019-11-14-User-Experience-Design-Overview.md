@@ -75,6 +75,16 @@ Lastly, another major result we found was that users were consistently unsure ab
 
 These results are perhaps the most salient of our usability tests, but do not show the complete scope of the results gathered. To view all results collected please visit https://eddyngeoffy.github.io/2019-11-10-Usability-Testing-Review/
 
+### 7.) Final Paper Prototype
+
+The final paper prototype takese all of the most salient insights discussed above and incorporates it into one coherent application prototype. In the context of the two tasks, the revisions allow the user to 1.) effectively enter their user information that will be used to match them with other musicans, 2.) have a better underdstanding of the state of the application based on what they have accomplished, 3.) organize multiple matches, 4.) organize multiple bands, and 5.) effective read, update, and delete band events. 
+
+#### Task 1: “find a group of musical peers to play music with in the near future.”
+![task_1_overview!](/img/Task1-1.png)
+![task_1_overview!](/img/Task1-2.png)
+
+#### Task 2: "you currently part of a band and your task is to act as band manager for the group."
+![task_1_overview!](/img/Task2.png)
 
 ### 8.) Digital Mockup
 In all, the HiFi prototype faithfully captures all of the functionality captured in the LoFi prototype. Changes made mainly reflect stylistic decisions about color and spacing in order to make some functions more obvious or simply more attractive. A notable change was the inclusion of various "tip" cards that give some insight on how tasks might be useful to them. In addition, the profile page 
