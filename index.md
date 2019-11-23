@@ -10,6 +10,11 @@ Currently, there are a wealth of resources for learning new instruments and uplo
 ## Our Solution
 Harmonee’s mission is to unlock this potential, making the logistics of band formation and maintenance from something that is a burden into something that is exciting and painless. Our use of a mobile app format lead to the two tasks we found most important: establishing a network of musicians, and thoughtful preparation for events.
 
-# Try the interactive prototype!
+## Video Prototype
+
+[![Video Prototype](http://img.youtube.com/vi/Vhh_GeBPOhs/0.jpg)](http://www.youtube.com/watch?v=Vhh_GeBPOhs "InsertTitle")
+
+## Try the interactive prototype!
 
 [<img src="/img/HarmoneeLanding.PNG">](https://projects.invisionapp.com/prototype/Harmonee-HIFI-ck3bu5fl200asdp01snod0bgk/play/1e10f1e4)
+
