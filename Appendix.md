@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Harmonee Appendix
-subtitle: Collaborating in Unison.
+title: Appendix
+subtitle: Collaborating in Unison
 use-site-title: true
 ---
 
