@@ -18,3 +18,11 @@ Harmonee’s mission is to unlock this potential, making the logistics of band f
 
 [<img src="/img/HarmoneeLanding.PNG">](https://projects.invisionapp.com/prototype/Harmonee-HIFI-ck3bu5fl200asdp01snod0bgk/play/1e10f1e4)
 
+## Our Iterative Process.
+
+### [User Experience Design Overview](https://project-harmonee.github.io/2019-11-14-User-Experience-Design-Overview/)
+
+### [User Experience Research Overview](https://project-harmonee.github.io/2019-10-27-User-Experience-Research/)
+
+### [Project Proposal](https://project-harmonee.github.io/2019-09-25-project-proposal/)
+
