@@ -20,9 +20,9 @@ Harmonee’s mission is to unlock this potential, making the logistics of band f
 
 ## Our Iterative Process.
 
-### [User Experience Design Overview](https://project-harmonee.github.io/2019-11-14-User-Experience-Design-Overview/)
+#### [User Experience Design Overview](https://project-harmonee.github.io/2019-11-14-User-Experience-Design-Overview/)
 
-### [User Experience Research Overview](https://project-harmonee.github.io/2019-10-27-User-Experience-Research/)
+#### [User Experience Research Overview](https://project-harmonee.github.io/2019-10-27-User-Experience-Research/)
 
-### [Project Proposal](https://project-harmonee.github.io/2019-09-25-project-proposal/)
+#### [Project Proposal](https://project-harmonee.github.io/2019-09-25-project-proposal/)
 
