@@ -12,7 +12,7 @@ Harmonee’s mission is to unlock this potential, making the logistics of band f
 
 ## Video Prototype
 
-[![Video Prototype](http://img.youtube.com/vi/Vhh_GeBPOhs/0.jpg)](http://www.youtube.com/watch?v=Vhh_GeBPOhs "InsertTitle")
+[<img src="/img/HarmoneeVid.PNG">](https://vimeo.com/375334065)
 
 ## Try the interactive prototype!
 
